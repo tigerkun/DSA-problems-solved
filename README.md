@@ -11,6 +11,11 @@ Tracking my DSA journey one problem at a time as part of the **#DrGViswanathan C
 | 3   | Middle of the Linked List | Easy       |
 | 4   | Add Digits                | Easy       |
 | 5   | Merge Two Sorted Lists    | Easy       |
+| 6   | Perfect Number            | Easy       |
+| 7   | Linked List Cycle         | Easy       |
+| 8   | Palindrome Number         | Easy       |
+| 9   | Palindrome Linked List    | Easy       |
+| 10  | Valid Perfect Square      | Easy       |
 
 ## Goals
 
@@ -25,9 +30,13 @@ Tracking my DSA journey one problem at a time as part of the **#DrGViswanathan C
 * Linked Lists
 * Arrays
 * Mathematics
+* Number Theory
+* Binary Search
 * Two Pointers
 * Fast & Slow Pointer Technique
+* Cycle Detection
 * Digit Manipulation
+* In-place Reversal
 
 ## Repository Structure
 
@@ -39,14 +48,27 @@ DSA-Problems-Solved
 ├── Day-03-Middle-of-the-Linked-List
 ├── Day-04-Add-Digits
 ├── Day-05-Merge-Two-Sorted-Lists
+├── Day-06-Perfect-Number
+├── Day-07-Linked-List-Cycle
+├── Day-08-Palindrome-Number
+├── Day-09-Palindrome-Linked-List
+├── Day-10-Valid-Perfect-Square
 │
 └── README.md
 ```
 
 ## Current Stats
 
-* Problems Solved: **5**
-* Streak: **5 Days**
+* Problems Solved: **10**
+* Streak: **10 Days**
 * Language: **Java**
 
-*"Consistency compounds."*
+## Milestones
+
+✅ First Linked List Problem Solved
+✅ First Fast & Slow Pointer Problem Solved
+✅ First Mathematical Optimization Problem Solved
+✅ First Binary Search Problem Solved
+✅ Double-Digit Problem Streak Reached
+
+*"Consistency compounds. Small daily improvements become remarkable results over time."*
