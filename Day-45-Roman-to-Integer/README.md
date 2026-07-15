@@ -10,7 +10,7 @@ L	50
 C	100
 D	500
 M	1000
-Convert a Roman numeral into its integer value.
+Convert a Roman numeral into its integer value
 
 Example 1
 Input
